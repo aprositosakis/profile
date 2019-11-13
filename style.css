@@ -1,25 +1,25 @@
 body {
-  background-color: d8f8b7;
-  font-family: 'Muli', sans-serif;
+  background-color: C1E35E;
+  font-family: 'Carrois Gothic SC', sans-serif;
   color: 66a96b;
   font-size: 18px;
   margin: 20px 20px;
 }
 
 h1 {
-  color: 3b5f41;
+  color: 6F7C12;
   font-size: 32px;
   font-weight: 900;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Carrois Gothic SC', sans-serif;
   margin: 40px 0 0 0;
 }
 
 h2 {
-  color: 3b5f41;
+  color: 6F7C12;
 }
 
 a {
-  color: 25a55f;
+  color: 6F7C12;
   text-decoration: none;
   line-height: 26px;
 }
@@ -29,7 +29,7 @@ h2 {
 }
 
 a:hover {
-  color: 3b5f41;
+  color: 6F7C12;
 }
 
 li {
@@ -65,11 +65,11 @@ img {
 }
 
 .social {
-  color: d8f8b7;
+  color: 6F7C12;
 }
 
 #btn_press_here {
-  background-color: d8f8b7;
+  background-color: 6F7C12;
   border-radius: 8px;
   padding: 4px 8px;
 }
