@@ -1,13 +1,13 @@
 body {
-  background-color: C1E35E;
+  background-color: 6F7C12;
   font-family: 'Carrois Gothic SC', sans-serif;
-  color: 6F7C12;
+  color: C1E35E;
   font-size: 18px;
   margin: 20px 20px;
 }
 
 h1 {
-  color: 6F7C12;
+  color: C1E35E;
   font-size: 32px;
   font-weight: 900;
   font-family: 'Carrois Gothic SC', sans-serif;
@@ -15,11 +15,11 @@ h1 {
 }
 
 h2 {
-  color: 6F7C12;
+  color: C1E35E;
 }
 
 a {
-  color: 6F7C12;
+  color: C1E35E;
   text-decoration: none;
   line-height: 26px;
 }
@@ -29,7 +29,7 @@ h2 {
 }
 
 a:hover {
-  color: 6F7C12;
+  color: C1E35E;
 }
 
 li {
@@ -65,11 +65,11 @@ img {
 }
 
 .social {
-  color: 6F7C12;
+  color: C1E35E;
 }
 
 #btn_press_here {
-  background-color: C1E35E;
+  background-color: 6F7C12;
   border-radius: 8px;
   padding: 4px 8px;
   color: white;
