@@ -1,7 +1,7 @@
 body {
   background-color: C1E35E;
   font-family: 'Carrois Gothic SC', sans-serif;
-  color: 66a96b;
+  color: 6F7C12;
   font-size: 18px;
   margin: 20px 20px;
 }
@@ -69,7 +69,8 @@ img {
 }
 
 #btn_press_here {
-  background-color: 6F7C12;
+  background-color: C1E35E;
   border-radius: 8px;
   padding: 4px 8px;
+  color: white;
 }
