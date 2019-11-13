@@ -74,3 +74,7 @@ img {
   padding: 4px 8px;
   color: white;
 }
+
+#btn_press_here:hover {
+  color: 515B0E;
+}
